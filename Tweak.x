@@ -7,8 +7,8 @@
 #import <YouTubeHeader/YTSettingsSectionItemManager.h>
 #import <YouTubeHeader/YTSettingsViewController.h>
 #import <YouTubeHeader/YTTypeStyle.h>
-#import "Header.h"
-#import "Init.h"
+#import <YouTubeHeader/Header.h>
+#import <YouTubeHeader/Init.h>
 
 static const NSInteger YTVideoOverlaySection = 1222;
 
